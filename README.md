@@ -1,3 +1,4 @@
 # demo
-This is my first Git Repository
-author-sudhanshu pathak
+This is my first Git Repository.
+<br>
+author - sudhanshu pathak
